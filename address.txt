@@ -1,0 +1,15 @@
+1  a1  m  23  21211  dwwwdew  213213
+2  a2  w  21  2141  wqq  12423
+3  a3  w  12  1223  qwewe  12312
+4  a4  w  34  12445  fwegfg  12134
+5  a5  w  1234  214  ewfr  23244
+6  a6  w  23  2442  dvrre  2134
+7  a7  w  254  2344  safgf  125
+8  a8  w  13  214  dsf  234
+9  a9  w  34  23  dsff  344
+10  a10  w  23  134  weqdf  214
+11  a11  w  12  2123  wqw  213
+12  a12  w  12  124  asdw  124141
+13  a13  w  12  124  asfdf  123114
+14  a14  w  12  123  erewe  12314
+20  a20  w  22  21312  wqffw  23432
